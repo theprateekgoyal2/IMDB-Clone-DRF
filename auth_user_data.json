@@ -1,0 +1,98 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 3,
+        "fields": {
+            "password": "pbkdf2_sha256$150000$zucXVizn76xP$ObERZd7/TIkDpWu6pmPZrAaOT2L7BM7ix05MExPsm8A=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "ron_weasley",
+            "first_name": "Ron",
+            "last_name": "Weasley",
+            "email": "ron@example.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 4,
+        "fields": {
+            "password": "pbkdf2_sha256$150000$y0yFlU1w4az6$Bx/3Y5c19WNCJqXyBQbLtbDNvwDleRFdtVizE5M4BZA=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "ginny_weasley",
+            "first_name": "Ginny",
+            "last_name": "Weasley",
+            "email": "ginny@example.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 5,
+        "fields": {
+            "password": "pbkdf2_sha256$150000$26OR1m5uv2iI$W8sIhZ3+Ksksz7jP+U+vKSax5cTTZ9v+u9/gDFnEhWk=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "luna_lovegood",
+            "first_name": "Luna",
+            "last_name": "Lovegood",
+            "email": "luna@example.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 6,
+        "fields": {
+            "password": "pbkdf2_sha256$150000$dER1vExmflgo$WubEyd5pQ0mNrAofCWbfs5UT8qrmbXrB/Fl8VWfgcy0=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "neville_longbottom",
+            "first_name": "Neville",
+            "last_name": "Longbottom",
+            "email": "neville@example.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 7,
+        "fields": {
+            "password": "pbkdf2_sha256$150000$ESRRB2awwBLo$S6i1X/VGnRQZzZogcdibVMzJGpEX+5KYJxV8ZB5mu0c=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "hermione_granger",
+            "first_name": "Hermione",
+            "last_name": "Granger",
+            "email": "hermione@example.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "auth.user",
+        "pk": 8,
+        "fields": {
+            "password": "pbkdf2_sha256$150000$SaJPPVchESUJ$hXZc5vxgtS8f+KYeAp3SWxYV8R+Mwt3aZnOoL7dW5O0=",
+            "last_login": null,
+            "is_superuser": false,
+            "username": "harry_potter",
+            "first_name": "Harry",
+            "last_name": "Potter",
+            "email": "harry@example.com",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2023-11-24T12:00:00Z"
+        }
+    }
+]

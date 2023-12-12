@@ -1,0 +1,643 @@
+[
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 1,
+        "fields": {
+            "title": "The Shawshank Redemption",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 2,
+        "fields": {
+            "title": "The Godfather",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 3,
+        "fields": {
+            "title": "The Dark Knight",
+            "platform": [
+                1,
+                4
+            ],
+            "storyline": "When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 4,
+        "fields": {
+            "title": "Inception",
+            "platform": [
+                1,
+                2,
+                4
+            ],
+            "storyline": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 5,
+        "fields": {
+            "title": "Pulp Fiction",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 6,
+        "fields": {
+            "title": "Forrest Gump",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 7,
+        "fields": {
+            "title": "The Matrix",
+            "platform": [
+                1,
+                4
+            ],
+            "storyline": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 8,
+        "fields": {
+            "title": "Schindler's List",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 9,
+        "fields": {
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "A young hobbit, Frodo, who has found the One Ring, begins his journey to Mount Doom to destroy it.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 10,
+        "fields": {
+            "title": "The Silence of the Lambs",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 11,
+        "fields": {
+            "title": "Fight Club",
+            "platform": [
+                1,
+                4
+            ],
+            "storyline": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 12,
+        "fields": {
+            "title": "The Usual Suspects",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 13,
+        "fields": {
+            "title": "The Lion King",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "Lion cub and future king Simba searches for his identity. His eagerness to please others and penchant for testing his boundaries sometimes gets him into trouble.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 14,
+        "fields": {
+            "title": "The Terminator",
+            "platform": [
+                1,
+                4
+            ],
+            "storyline": "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 15,
+        "fields": {
+            "title": "Inglourious Basterds",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 16,
+        "fields": {
+            "title": "Saving Private Ryan",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 17,
+        "fields": {
+            "title": "Titanic",
+            "platform": [
+                1,
+                4
+            ],
+            "storyline": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 18,
+        "fields": {
+            "title": "Avatar",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 19,
+        "fields": {
+            "title": "Gladiator",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 20,
+        "fields": {
+            "title": "The Departed",
+            "platform": [
+                1,
+                4
+            ],
+            "storyline": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 21,
+        "fields": {
+            "title": "Breaking Bad",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to secure his family's financial future.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 22,
+        "fields": {
+            "title": "Game of Thrones",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 23,
+        "fields": {
+            "title": "Stranger Things",
+            "platform": [
+                1,
+                4
+            ],
+            "storyline": "A group of kids in a small town uncover a series of supernatural mysteries and government conspiracies when a young girl with telekinetic powers appears.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 24,
+        "fields": {
+            "title": "The Mandalorian",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "A lone bounty hunter navigates the outer reaches of the galaxy, far from the authority of the New Republic.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 25,
+        "fields": {
+            "title": "Black Mirror",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "A series of stand-alone dramas that are sharp, suspenseful, satirical tales that explore techno-paranoia.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 26,
+        "fields": {
+            "title": "Westworld",
+            "platform": [
+                1,
+                4
+            ],
+            "storyline": "In a futuristic Western-themed amusement park, the guests interact with automatons in scenarios that are developed, overseen, and scripted by the park's creative, security, and quality assurance departments.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 27,
+        "fields": {
+            "title": "The Witcher",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 28,
+        "fields": {
+            "title": "The Crown",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 29,
+        "fields": {
+            "title": "Narcos",
+            "platform": [
+                1,
+                4
+            ],
+            "storyline": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 30,
+        "fields": {
+            "title": "Friends",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "Follows the personal and professional lives of six twenty to thirty-something friends living in Manhattan.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 31,
+        "fields": {
+            "title": "The Office",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "A mockumentary on a group of typical office workers where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 32,
+        "fields": {
+            "title": "Sherlock",
+            "platform": [
+                1,
+                4
+            ],
+            "storyline": "A modern update finds the famous sleuth and his doctor partner solving crime in 21st century London.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 33,
+        "fields": {
+            "title": "The Simpsons",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "The satiric adventures of a working-class family in the misfit city of Springfield.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 34,
+        "fields": {
+            "title": "Mindhunter",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "In the late 1970s two FBI agents expand criminal science by delving into the psychology of murder and getting uneasily close to all-too-real monsters.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 35,
+        "fields": {
+            "title": "The X-Files",
+            "platform": [
+                1,
+                4
+            ],
+            "storyline": "Two F.B.I. Agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained, while hidden forces work to impede their efforts.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 36,
+        "fields": {
+            "title": "Dexter",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. At night, he is a serial killer who only targets other murderers.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 37,
+        "fields": {
+            "title": "BoJack Horseman",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "BoJack Horseman was the star of the hit television show 'Horsin' Around' in the '80s and '90s, now he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 38,
+        "fields": {
+            "title": "Rick and Morty",
+            "platform": [
+                1,
+                4
+            ],
+            "storyline": "An animated series that follows the exploits of a super scientist and his not-so-bright grandson.",
+            "active": true,
+            "avg_rating": 3.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 39,
+        "fields": {
+            "title": "The Big Bang Theory",
+            "platform": [
+                1,
+                2
+            ],
+            "storyline": "A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about life outside of the laboratory.",
+            "active": true,
+            "avg_rating": 4.5,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    },
+    {
+        "model": "watchlist_app.watchlist",
+        "pk": 40,
+        "fields": {
+            "title": "The Witcher",
+            "platform": [
+                1,
+                3
+            ],
+            "storyline": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world where people often prove more wicked than beasts.",
+            "active": true,
+            "avg_rating": 4.0,
+            "total_ratings": 2,
+            "created": "2023-11-24T12:00:00Z"
+        }
+    }
+]

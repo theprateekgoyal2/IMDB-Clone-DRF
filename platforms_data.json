@@ -1,0 +1,47 @@
+[
+    {
+        "model": "watchlist_app.streamingplatform",
+        "pk": 1,
+        "fields": {
+            "name": "Netflix",
+            "website": "https://www.netflix.com",
+            "about": "Popular streaming platform with a vast library of movies and TV shows."
+        }
+    },
+    {
+        "model": "watchlist_app.streamingplatform",
+        "pk": 2,
+        "fields": {
+            "name": "Hulu",
+            "website": "https://www.hulu.com",
+            "about": "Streaming service offering a variety of TV shows, movies, and original content."
+        }
+    },
+    {
+        "model": "watchlist_app.streamingplatform",
+        "pk": 3,
+        "fields": {
+            "name": "Amazon Prime Video",
+            "website": "https://www.amazon.com/Prime-Video",
+            "about": "Amazon's streaming service with a mix of movies, TV shows, and exclusive content."
+        }
+    },
+    {
+        "model": "watchlist_app.streamingplatform",
+        "pk": 4,
+        "fields": {
+            "name": "Disney+",
+            "website": "https://www.disneyplus.com",
+            "about": "Platform featuring content from Disney, Pixar, Marvel, Star Wars, and National Geographic."
+        }
+    },
+    {
+        "model": "watchlist_app.streamingplatform",
+        "pk": 5,
+        "fields": {
+            "name": "HBO Max",
+            "website": "https://www.hbomax.com",
+            "about": "Streaming service offering HBO's original series, movies, and additional content."
+        }
+    }
+]

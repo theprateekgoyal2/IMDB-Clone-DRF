@@ -1,0 +1,1042 @@
+[
+  {
+    "model": "watchlist_app.review",
+    "pk": 1,
+    "fields": {
+      "reviewer": 3,
+      "rating": 4,
+      "description": "A classic film with an outstanding storyline.",
+      "movie": 1,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 2,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "Absolutely mesmerizing, a must-watch!",
+      "movie": 1,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 3,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "The Godfather is a cinematic masterpiece.",
+      "movie": 2,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 4,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "Good, but the storyline felt a bit slow.",
+      "movie": 2,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 5,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "The Dark Knight exceeded all expectations!",
+      "movie": 3,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 6,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "Inception is a mind-bending cinematic experience.",
+      "movie": 3,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 7,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "Pulp Fiction's narrative complexity is intriguing.",
+      "movie": 4,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 8,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "Iconic characters and unforgettable scenes.",
+      "movie": 4,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 9,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "Forrest Gump is a heartwarming journey.",
+      "movie": 5,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 10,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "Enjoyable, but the pacing felt inconsistent.",
+      "movie": 5,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 11,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "The Matrix is a groundbreaking sci-fi classic.",
+      "movie": 6,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 12,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "A visually stunning and thought-provoking film.",
+      "movie": 6,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 13,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "Schindler's List is a powerful and emotional journey.",
+      "movie": 7,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 14,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "An important film that leaves a lasting impact.",
+      "movie": 7,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 15,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "The Lord of the Rings: The Fellowship of the Ring is a fantasy epic.",
+      "movie": 8,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 16,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "A visually stunning start to the trilogy.",
+      "movie": 8,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 17,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "The Silence of the Lambs is a suspenseful masterpiece.",
+      "movie": 9,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 18,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "Hannibal Lecter's character steals the show.",
+      "movie": 9,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 19,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "Inglourious Basterds is a unique take on war films.",
+      "movie": 10,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 20,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "Quentin Tarantino's storytelling shines.",
+      "movie": 10,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 21,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "Captivating from start to finish!",
+      "movie": 11,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 22,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "The Lion King is a timeless classic.",
+      "movie": 11,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 23,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "The Terminator is a sci-fi masterpiece.",
+      "movie": 12,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 24,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "An action-packed thrill ride.",
+      "movie": 12,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 25,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "Usual Suspects keeps you guessing until the end.",
+      "movie": 13,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 26,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "A brilliant and twisty plot.",
+      "movie": 13,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 27,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "Fight Club's mind-bending narrative is unforgettable.",
+      "movie": 14,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 28,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "An intense and thought-provoking experience.",
+      "movie": 14,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 29,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "The Silence of the Lambs is a chilling masterpiece.",
+      "movie": 15,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 30,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "A psychological thriller with outstanding performances.",
+      "movie": 15,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 31,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "The Matrix revolutionized sci-fi filmmaking.",
+      "movie": 16,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 32,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "A groundbreaking film that pushed boundaries.",
+      "movie": 16,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 33,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "Forrest Gump's heartwarming tale is a classic.",
+      "movie": 17,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 34,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "A nostalgic journey with charming characters.",
+      "movie": 17,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 35,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "Pulp Fiction's non-linear narrative is brilliant.",
+      "movie": 18,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 36,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "Tarantino's masterpiece with iconic scenes.",
+      "movie": 18,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 37,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "Inception's mind-bending concept is intriguing.",
+      "movie": 19,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 38,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "A visually stunning journey into dreams.",
+      "movie": 19,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 39,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "Schindler's List is a powerful and emotional masterpiece.",
+      "movie": 20,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 40,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "An impactful portrayal of a historical tragedy.",
+      "movie": 20,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 41,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "Breaking Bad is a gripping and intense series.",
+      "movie": 21,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 42,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "An outstanding portrayal of moral decay.",
+      "movie": 21,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 43,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "Game of Thrones is a complex political drama.",
+      "movie": 22,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 44,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "Epic battles and unexpected twists.",
+      "movie": 22,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 45,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "Stranger Things is a nostalgic sci-fi adventure.",
+      "movie": 23,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 46,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "A thrilling and suspenseful journey.",
+      "movie": 23,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 47,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "The Mandalorian is a space-western delight.",
+      "movie": 24,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 48,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "Captivating storytelling in the Star Wars universe.",
+      "movie": 24,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 49,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "Black Mirror explores the dark side of technology.",
+      "movie": 25,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 50,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "Thought-provoking and unsettling narratives.",
+      "movie": 25,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 51,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "Westworld's complex narrative keeps you hooked.",
+      "movie": 26,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 52,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "Exploration of consciousness in an immersive theme park.",
+      "movie": 26,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 53,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "The Witcher is a fantasy epic with compelling characters.",
+      "movie": 27,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 54,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "Henry Cavill's portrayal of Geralt is outstanding.",
+      "movie": 27,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 55,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "The Crown provides a glimpse into royal history.",
+      "movie": 28,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 56,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "A regal and meticulously crafted series.",
+      "movie": 28,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 57,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "Narcos delves into the world of drug cartels.",
+      "movie": 29,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 58,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "A thrilling and suspenseful exploration of real events.",
+      "movie": 29,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 59,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "Friends is a timeless sitcom with memorable characters.",
+      "movie": 30,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 60,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "Endearing friendships and hilarious moments.",
+      "movie": 30,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 61,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "The Office is a hilarious mockumentary sitcom.",
+      "movie": 31,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 62,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "Steve Carell's performance is comedic gold.",
+      "movie": 31,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 63,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "Sherlock is a modern and gripping adaptation.",
+      "movie": 32,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 64,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "Benedict Cumberbatch's portrayal is brilliant.",
+      "movie": 32,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 65,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "The Simpsons is a timeless animated classic.",
+      "movie": 33,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 66,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "Iconic characters and clever satire.",
+      "movie": 33,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 67,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "Mind-bending narratives in Black Mirror.",
+      "movie": 34,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 68,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "Thought-provoking stories about the dark side of technology.",
+      "movie": 34,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 69,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "Rick and Morty is a hilarious animated sci-fi adventure.",
+      "movie": 35,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 70,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "Intelligent humor and clever storytelling.",
+      "movie": 35,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 71,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "Dexter is a gripping and intense thriller.",
+      "movie": 36,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 72,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "Michael C. Hall's performance is outstanding.",
+      "movie": 36,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 73,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "BoJack Horseman is a dark and introspective animated series.",
+      "movie": 37,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 74,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "A unique blend of humor and deep emotional themes.",
+      "movie": 37,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 75,
+    "fields": {
+      "reviewer": 5,
+      "rating": 4,
+      "description": "Mindhunter is a chilling exploration of criminal psychology.",
+      "movie": 38,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 76,
+    "fields": {
+      "reviewer": 6,
+      "rating": 3,
+      "description": "Well-crafted and suspenseful storytelling.",
+      "movie": 38,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 77,
+    "fields": {
+      "reviewer": 7,
+      "rating": 5,
+      "description": "The Big Bang Theory is a hilarious sitcom with nerdy charm.",
+      "movie": 39,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 78,
+    "fields": {
+      "reviewer": 8,
+      "rating": 4,
+      "description": "Clever humor and lovable characters.",
+      "movie": 39,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 79,
+    "fields": {
+      "reviewer": 3,
+      "rating": 3,
+      "description": "The Witcher is an epic fantasy with thrilling action.",
+      "movie": 40,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  },
+  {
+    "model": "watchlist_app.review",
+    "pk": 80,
+    "fields": {
+      "reviewer": 4,
+      "rating": 5,
+      "description": "A riveting and visually stunning adaptation of the novels.",
+      "movie": 40,
+      "active": true,
+      "created": "2023-11-24T12:00:00Z",
+      "updated": "2023-11-24T12:00:00Z"
+    }
+  }
+]
